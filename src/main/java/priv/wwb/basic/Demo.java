@@ -1,4 +1,4 @@
-package priv.wwb.sodis;
+package priv.wwb.basic;
 
 import java.util.ArrayList;
 import java.util.Collections;
